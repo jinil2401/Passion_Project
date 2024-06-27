@@ -143,4 +143,4 @@ To manage and view articles, categories, andcomments via the application’s fro
 **Additional Notes**
 
 *   This project demonstrates practical skills in ASP.NET MVC, Web API development, and Entity Framework.
-*   For any issues or further assistance, please contact the project maintainer.
+
